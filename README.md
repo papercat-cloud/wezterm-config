@@ -245,10 +245,10 @@ Most of the key bindings revolve around a <kbd>SUPER</kbd> and <kbd>SUPER_REV</k
 
 #### Copy+Paste
 
-| Keys                                          | Action               |
-| --------------------------------------------- | -------------------- |
-| <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd> | Copy to Clipboard    |
-| <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>v</kbd> | Paste from Clipboard |
+| Keys                          | Action               |
+| ----------------------------- | -------------------- |
+| <kbd>SUPER</kbd>+<kbd>c</kbd> | Copy to Clipboard    |
+| <kbd>SUPER</kbd>+<kbd>v</kbd> | Paste from Clipboard |
 
 &nbsp;
 
